@@ -8,7 +8,7 @@ try{
 			
 			document.getElementById("myName").value = "Ganesh";		
 			document.getElementById("mypwd").value = "123456";
-			window.location.href = "Mr Ganesh.html";
+			window.location.href = "ganesh.html";
 			
 
 		}
@@ -16,14 +16,14 @@ try{
 
 			// document.getElementById("myName").value = "Dharish";		
 			// document.getElementById("mypwd").value = "45678";
-			window.location.href = "Mr Dharish.html";
+			window.location.href = "dharish.html";
 
 		}
 		else if(document.getElementById("myName").value == "Vijay" && document.getElementById("mypwd").value == "98765"){
 
 			document.getElementById("myName").value = "Vijay";		
 			document.getElementById("mypwd").value = "98765";
-			window.location.href = "Mr Vijay.html";
+			window.location.href = "vijay.html";
 
 		}
 		else {
