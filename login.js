@@ -1,6 +1,6 @@
 
 function myfunction(){
-debugger
+// debugger
 	//alert("Hi");
 try{
 	if(document.getElementById("myName").value != ""){
