@@ -16,7 +16,7 @@ try{
 
 			// document.getElementById("myName").value = "Dharish";		
 			// document.getElementById("mypwd").value = "45678";
-			window.location.href = "dharish/dharish.html";
+			window.location.href = "https://dhari232.github.io/";
 
 		}
 		else if(document.getElementById("myName").value == "Vijay" && document.getElementById("mypwd").value == "98765"){
